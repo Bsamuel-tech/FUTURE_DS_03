@@ -6,7 +6,7 @@ education, employment status, and credit history.
 It uses machine learning models to classify applicants as either eligible or not for loans. 
 The dataset consists of information on 614 loan applicants and includes missing values that were handled during the preprocessing stage
 
-# Dataset features 8-)
+# Dataset features 
 + Loan_ID: Unique Loan Identifier
 + Gender: Male/Female
 + Married: Applicant's marital status
@@ -38,9 +38,9 @@ The dataset consists of information on 614 loan applicants and includes missing 
 Two models were used to predict loan eligibility:
 
 - Decision Tree Classifier
-      .Accuracy: 69.92%
+      . Accuracy: 69.92%
  - Naive Bayes Classifier
-      .Accuracy: 81.30%
+      . Accuracy: 81.30%
 
 # Results
 The Naive Bayes classifier outperformed the Decision Tree in predicting loan eligibility, with an accuracy of 81.3%. 
@@ -50,7 +50,7 @@ and testing other machine learning algorithms.
 # Use it with:
 1. cloning the repository
 2. install all the listed libraries in above using
-    . pip install (all libararies).
+    . **pip install (all libararies)**.
 
 Kindly, help me to improve my working by suggesting me or comments on my works. via: https://www.linkedin.com/in/samuel-bizimana-0849b026b/ or email me: kabashibizimana@gmail.com
    
