@@ -31,10 +31,10 @@ The dataset consists of information on 614 loan applicants and includes missing 
 7. LabelEncoder: Encoding categorical variables into numerical variables
 # Data Preprocessing
   - Handled missing values in columns such as #Gender, # Married, #Dependents, # Self_Employed, and # LoanAmount by filling them with appropriate statistical measures (mode or mean).
-  - Created new features #TotalIncome and #TotalIncome_log to combine applicant and co-applicant incomes for better model performance.
+  - Created new features #TotalIncome and # TotalIncome_log to combine applicant and co-applicant incomes for better model performance.
   - Normalized features using #StandardScaler.
 
-# Data Modoling
+# Data Modeling
 Two models were used to predict loan eligibility:
 
 - Decision Tree Classifier
