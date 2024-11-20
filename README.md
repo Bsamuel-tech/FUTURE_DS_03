@@ -6,7 +6,7 @@ education, employment status, and credit history.
 It uses machine learning models to classify applicants as either eligible or not for loans. 
 The dataset consists of information on 614 loan applicants and includes missing values that were handled during the preprocessing stage
 
-# Dataset features
+# Dataset features 8-)
 + Loan_ID: Unique Loan Identifier
 + Gender: Male/Female
 + Married: Applicant's marital status
