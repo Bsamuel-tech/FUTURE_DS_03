@@ -8,18 +8,18 @@ The dataset consists of information on 614 loan applicants and includes missing 
 
 # Dataset features
 + Loan_ID: Unique Loan Identifier
-+Gender: Male/Female
-+Married: Applicant's marital status
-+Dependents: Number of dependents
-+Education: Applicant's education level (Graduate/Not Graduate)
-+Self_Employed: Whether the applicant is self-employed
-+ApplicantIncome: Applicant's income
-+CoapplicantIncome: Co-applicant's income
-+LoanAmount: Loan amount requested
-+Loan_Amount_Term: Term of loan in months
-+Credit_History: Whether the applicant has a credit history (1 for Yes, 0 for No)
-+Property_Area: Urban, Rural, or Semiurban
-+Loan_Status: Whether the loan was approved or not (Y/N)
++ Gender: Male/Female
++ Married: Applicant's marital status
++ Dependents: Number of dependents
++ Education: Applicant's education level (Graduate/Not Graduate)
++ Self_Employed: Whether the applicant is self-employed
++ ApplicantIncome: Applicant's income
++ CoapplicantIncome: Co-applicant's income
++ LoanAmount: Loan amount requested
++ Loan_Amount_Term: Term of loan in months
++ Credit_History: Whether the applicant has a credit history (1 for Yes, 0 for No)
++ Property_Area: Urban, Rural, or Semiurban
++ Loan_Status: Whether the loan was approved or not (Y/N)
 
 # Employed Libraries
 1. pandas: Data manipulation and analysis
